@@ -1,0 +1,209 @@
+/*Fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Permanent+Marker&family=Quicksand:wght@300..700&display=swap');
+
+.min-h-height{
+    min-height: 100vh;
+}
+
+
+.bg{
+    background:red;
+}
+
+
+.mx-auto{
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+.flex{
+    display: flex;
+}
+
+
+.item-center{
+    align-items: center;
+}
+
+
+.justify-between{
+    justify-content: space-between;
+}
+
+
+.justify-center{
+    justify-content: center;
+}
+
+
+.flex-col{
+    flex-direction: column;
+}
+
+
+.navbar{
+    display:flex;
+    height:50px;
+    margin-right: 10px;
+    font-family: "Hind Siliguri", sans-serif;
+    
+}
+
+
+.navbar li{
+    list-style: none;
+}
+
+
+.font-bold{
+    font-weight: 900;
+    font-size: 35px;
+}
+
+
+.topleft{
+    width: 50%;
+    
+}
+
+
+.topright{
+    width: 50%;
+}
+
+
+.my-1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+
+
+.px-2{
+    margin-left: 23px;
+    margin-right: 23px;
+}
+
+
+.text-violet{
+    color: #C80036;
+}
+
+
+.btn{
+    padding: 4px 12 px;
+    border:2px solid #DA7297;
+    color:black;
+    background-color: #FDFFD2;
+    border-radius: 6px;
+    cursor:pointer;
+
+}
+
+
+.overflow-hidden{
+    overflow:hidden;
+}
+
+
+.listpadding{
+    padding-right: 40px;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+
+.title-font{
+    font-family: "Chakra Petch", sans-serif;
+    font-size: 30px;
+}
+
+
+.paragraph-size{
+    font-size: 25px;
+    font-family: "Quicksand", sans-serif;
+}
+
+
+.paragraph-size2{
+    font-size: 25px;
+    font-family: "Quicksand", sans-serif;
+    padding: 0 8vw;
+    text-align: center;
+}
+
+
+.pricingpadding{
+    padding-left: 550px;
+    font-size: 2.3rem;
+    font-weight: bold;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+
+.box{
+    padding: 0px 5px 5px;
+    margin: 1.5vw;
+    min-width: 20vw;
+    border: 3px solid #A04747;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+.h2{
+    text-align: center;
+    margin: 1.9vw;
+    padding: 60px;
+}
+
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+
+.box ul{
+    list-style-type:none;
+    padding: 0px;
+}
+
+
+.box ul li{
+    text-align: center;
+    margin: 2px;
+    padding: 7px;
+}
+
+
+.box h2{
+    font-size: 2rem;
+    padding: 0 17px 20px;
+}
+
+
+.compareplan{
+    padding-left: 420px;
+    font-size: 2.3rem;
+    font-weight: bold;
+    font-family: "Chakra Petch", sans-serif;
+    padding-bottom: 35px;
+}
+
+
+.color{
+    color:#C80036 ;
+}
+
+

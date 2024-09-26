@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 50;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.section1{
+    height: 85vh;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+.section2{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.section3 table{
+    width: 85%;
+    margin: 20px 0;
+    border-collapse: collapse;
+
+}
+
+.section3 table th{
+    width: 23vw;
+    padding: 15px 0;
+    border-bottom: 2px solid black;
+}
+
+.section3 table td{
+    border-bottom: 2px solid black;
+
+}
+
+.footer{
+    padding: 23px;
+    /*padding-left: 400px;*/
+    text-align: center;
+}
+
+
+.section3{
+    padding-left: 63px;
+    padding-right: 63px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+}
+
+.list{
+    padding-right: 40px;
+
+
+}
+.list:hover{
+    cursor: pointer;
+    opacity: 50%;
+
+}
